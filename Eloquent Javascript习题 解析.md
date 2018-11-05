@@ -193,5 +193,5 @@ splice()会修改原始数组 arrayObject.splice(index,howmany,item1,.....,itemX
 
 #### 4.2 逆转数组
 ```
-
+11111111111111
 ```
